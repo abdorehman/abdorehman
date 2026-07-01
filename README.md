@@ -1,17 +1,19 @@
 ````md
-<div align="center">
+<p align="center">
 
 # `iskra ~/$ whoami`
+
+</p>
 
 ```bash
 Abdul Rehman / iskra
 ```
 
+<p align="center">
 Computer Science student focused on cybersecurity, web application security, and vulnerability research.
 
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
-
-</div>
+</p>
 
 ---
 
@@ -41,19 +43,17 @@ Status  : Building • Learning • Breaking
 ## CONTACT
 
 ```txt
-GitHub  → github.com/abdorehman
+GitHub   → github.com/abdorehman
 LinkedIn → linkedin.com/in/1skra
 ```
 
-<div align="center">
-
+<p align="center">
 <a href="https://github.com/abdorehman">
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/1skra/">
+<a href="https://www.linkedin.com/in/1skra">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-
-</div>
+</p>
 ````
