@@ -1,12 +1,7 @@
-```bash
+```md
 # iskra ~/$ whoami
 Abdul Rehman / iskra
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
-
-#About
-
-Computer Science student focused on cybersecurity, web application security, and vulnerability research.
-
 ```
 ---
 
@@ -30,6 +25,8 @@ Status  : Building • Learning • Breaking
 • CTF Problem Solving
 • Linux / CLI
 ```
+# About
+Computer Science student focused on cybersecurity, web application security, and vulnerability research.
 
 ---
 
