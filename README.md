@@ -1,13 +1,13 @@
-# iskra ~/$ whoami
-
 ```bash
+# iskra ~/$ whoami
 Abdul Rehman / iskra
-```
+Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
+
+#About
 
 Computer Science student focused on cybersecurity, web application security, and vulnerability research.
 
-Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
-
+```
 ---
 
 ```bash
