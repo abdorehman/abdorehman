@@ -7,7 +7,7 @@ Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 
 <table> 
 <tr>
-<td width="35%" align="center"> <img src="./neofetch.png" width="260"/> 
+<td width="20%" align="center"> <img src="./neofetch.png" width="260"/> 
 </td> 
 <td>   
   
