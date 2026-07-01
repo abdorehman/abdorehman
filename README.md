@@ -5,17 +5,24 @@ Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 ```
 ---
 
-```bash
+<table> 
+<tr>
+<td width="35%" align="center"> <img src="./neofetch.png" width="260"/> 
+</td> 
+<td>   
+  
+```bash 
 iskra@kali ~
 -----------------------------
-OS      : Kali Linux
-Role    : Cybersecurity & CS Student
-Focus   : Bug Hunting, Web Security, CTFs
-Labs    : HTB / PortSwigger / VulnLab / CTFs / WEB Kids 2.0
-Status  : Building • Learning • Breaking
+OS : Kali Linux
+Role : Cybersecurity & CS Student
+Focus : Bug Hunting, Web Security, CTFs
+Labs : HTB / PortSwigger / VulnLab / CTFs / WEB Kids 2.0
+Status : Building • Learning • Breaking
 ```
-
----
+</td> 
+</tr> 
+</table>
 
 ## SKILLS
 
