@@ -1,8 +1,7 @@
-```md
-# iskra ~/$ whoami
+iskra ~/$ whoami
 Abdul Rehman / iskra
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
-```
+
 ---
 
 <table> 
