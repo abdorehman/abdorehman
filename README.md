@@ -1,6 +1,6 @@
 ```bat
-iskra ~/$ whoami
-Abdul Rehman / iskra
+Небесный Демон ~/$ whoami
+Abdul Rehman / Небесный Демон
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 ```
 ---
@@ -12,7 +12,7 @@ Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 <td>   
   
 ```bash 
-iskra@kali ~
+Небесный Демон@kali ~
 -----------------------------
 OS : Kali Linux
 Role : Cybersecurity & CS Student
@@ -41,4 +41,4 @@ Computer Science student focused on cybersecurity, web application security, and
 
 GitHub → https://github.com/abdorehman
 
-LinkedIn → https://www.linkedin.com/in/1skra/
+LinkedIn → https://www.linkedin.com/in/heavenlydemon/
