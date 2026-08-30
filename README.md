@@ -39,6 +39,4 @@ Computer Science student focused on cybersecurity, web application security, and
 
 ## CONTACT
 
-GitHub → https://github.com/abdorehman
-
 LinkedIn → https://www.linkedin.com/in/heavenlydemon/
