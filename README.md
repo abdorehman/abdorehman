@@ -36,7 +36,3 @@ Status : Building • Learning • Breaking
 Computer Science student focused on cybersecurity, web application security, and vulnerability research.
 
 ---
-
-## CONTACT
-
-LinkedIn → https://www.linkedin.com/in/heavenlydemon/
